@@ -1,0 +1,55 @@
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+node_modules
+__pycache__/
+*.py[co]
+.coverage
+htmlcov
+cover
+
+
+### Editor shit
+#Vim
+.*.sw?
+.sw?
+# vscode
+.vscode
+# Sublime Text
+*.sublime-*
+#gedit
+*~
+# Mac specifics
+.DS_Store
+# Eclipse
+.project
+.pydevproject
+### PyCharm
+.idea/
+### R-related staff
+.Rprofile
+.Rproj.user
+*.Rproj
+packrat/lib*/
+packrat/src/
+*.Rhistory
+*.RData
+*.html
+
+# Serverless directories
+.serverless
+config/local.yml
+config/local.*.yml

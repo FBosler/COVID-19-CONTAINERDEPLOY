@@ -1,0 +1,15 @@
+version: '3.7'
+
+services:
+  web:
+    build: ./services/web
+    command: gunicorn --bind 0.0.0.0:5000 wsgi:app
+    expose:
+      - 5000
+
+  nginx:
+    build: ./services/nginx
+    ports:
+      - 1337:80
+    depends_on:
+      - web
