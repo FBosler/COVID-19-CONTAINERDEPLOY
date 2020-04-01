@@ -54,7 +54,6 @@ external_stylesheets = [dbc.themes.BOOTSTRAP]
 
 dash_app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
-
 dash_app.layout = html.Div([
         dbc.Container([
             html.H1(children='Visualization of reported Covid-19 cases in Germany by Districts'),
