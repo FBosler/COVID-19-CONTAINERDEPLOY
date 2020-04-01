@@ -8245,3 +8245,437 @@
 8243,Bayern,Würzburg Städte,30-03,242.0,5.493061443340548
 8244,Baden-Württemberg,Zollernalbkreis,30-03,346.0,5.849324779946859
 8245,Rheinland-Pfalz,Zweibrücken Städte,30-03,9.0,2.302585092994046
+8246,Nordrhein-Westfalen,Aachen,31-03,334.0,5.814130531825066
+8247,Nordrhein-Westfalen,Aachen Städte,31-03,502.0,6.220590170099739
+8248,Sachsen-Anhalt,Anhalt-Zerbst,31-03,12.0,2.5649493574615367
+8249,Sachsen-Anhalt,Bitterfeld,31-03,12.0,2.5649493574615367
+8250,Sachsen-Anhalt,Köthen,31-03,12.0,2.5649493574615367
+8251,Sachsen,Bautzen,31-03,68.0,4.23410650459726
+8252,Sachsen,Kamenz,31-03,68.0,4.23410650459726
+8253,Sachsen-Anhalt,Bördekreis,31-03,28.0,3.367295829986474
+8254,Sachsen-Anhalt,Ohrekreis,31-03,28.0,3.367295829986474
+8255,Niedersachsen,Cuxhaven,31-03,78.0,4.3694478524670215
+8256,Niedersachsen,Oldenburg,31-03,127.0,4.852030263919617
+8257,Sachsen,Annaberg,31-03,28.0,3.367295829986474
+8258,Sachsen,Aue-Schwarzenberg,31-03,28.0,3.367295829986474
+8259,Sachsen,Mittlerer Erzgebirgskreis,31-03,28.0,3.367295829986474
+8260,Sachsen,Stollberg,31-03,28.0,3.367295829986474
+8261,Sachsen,Görlitz Städte,31-03,22.0,3.1354942159291497
+8262,Sachsen,Löbau-Zittau,31-03,22.0,3.1354942159291497
+8263,Sachsen,Niederschlesischer Oberlausitzkreis,31-03,22.0,3.1354942159291497
+8264,Niedersachsen,Göttingen,31-03,82.0,4.418840607796598
+8265,Niedersachsen,Osterode,31-03,82.0,4.418840607796598
+8266,Sachsen-Anhalt,Halberstadt,31-03,17.0,2.8903717578961645
+8267,Sachsen-Anhalt,Quedlinburg,31-03,17.0,2.8903717578961645
+8268,Sachsen-Anhalt,Wernigerode,31-03,17.0,2.8903717578961645
+8269,Sachsen,Leipziger Land,31-03,48.0,3.8918202981106265
+8270,Sachsen,Muldentalkreis,31-03,48.0,3.8918202981106265
+8271,Mecklenburg-Vorpommern,Ludwigslust,31-03,22.0,3.1354942159291497
+8272,Mecklenburg-Vorpommern,Parchim,31-03,22.0,3.1354942159291497
+8273,Sachsen-Anhalt,Mansfelder Land,31-03,10.0,2.3978952727983707
+8274,Sachsen-Anhalt,Sangerhausen,31-03,10.0,2.3978952727983707
+8275,Mecklenburg-Vorpommern,Demmin,31-03,18.0,2.9444389791664403
+8276,Mecklenburg-Vorpommern,Mecklenburg-Strelitz,31-03,18.0,2.9444389791664403
+8277,Mecklenburg-Vorpommern,Müritz,31-03,18.0,2.9444389791664403
+8278,Mecklenburg-Vorpommern,Neubrandenburg Städte,31-03,18.0,2.9444389791664403
+8279,Sachsen,Meißen,31-03,42.0,3.7612001156935624
+8280,Sachsen,Riesa-Großenhain,31-03,42.0,3.7612001156935624
+8281,Sachsen,Delitzsch,31-03,19.0,2.995732273553991
+8282,Sachsen,Torgau-Oschatz,31-03,19.0,2.995732273553991
+8283,Mecklenburg-Vorpommern,Nordwestmecklenburg,31-03,18.0,2.9444389791664403
+8284,Mecklenburg-Vorpommern,Wismar Städte,31-03,18.0,2.9444389791664403
+8285,Mecklenburg-Vorpommern,Bad Doberan,31-03,16.0,2.833213344056216
+8286,Mecklenburg-Vorpommern,Güstrow,31-03,16.0,2.833213344056216
+8287,Sachsen-Anhalt,Merseburg-Querfurt,31-03,30.0,3.4339872044851463
+8288,Sachsen-Anhalt,Saalkreis,31-03,30.0,3.4339872044851463
+8289,Sachsen,Sächsische Schweiz,31-03,90.0,4.51085950651685
+8290,Sachsen,Weißeritzkreis,31-03,90.0,4.51085950651685
+8291,Sachsen-Anhalt,Aschersleben-Staßfurt,31-03,13.0,2.6390573296152584
+8292,Sachsen-Anhalt,Bernburg,31-03,13.0,2.6390573296152584
+8293,Sachsen-Anhalt,Schönebeck,31-03,13.0,2.6390573296152584
+8294,Sachsen,Plauen Städte,31-03,54.0,4.007333185232471
+8295,Sachsen,Vogtlandkreis,31-03,54.0,4.007333185232471
+8296,Mecklenburg-Vorpommern,Greifswald Städte,31-03,20.0,3.044522437723423
+8297,Mecklenburg-Vorpommern,Ostvorpommern,31-03,20.0,3.044522437723423
+8298,Mecklenburg-Vorpommern,Uecker-Randow,31-03,20.0,3.044522437723423
+8299,Mecklenburg-Vorpommern,Nordvorpommern,31-03,13.0,2.6390573296152584
+8300,Mecklenburg-Vorpommern,Rügen,31-03,13.0,2.6390573296152584
+8301,Mecklenburg-Vorpommern,Stralsund Städte,31-03,13.0,2.6390573296152584
+8302,Sachsen-Anhalt,Burgenlandkreis,31-03,16.0,2.833213344056216
+8303,Sachsen-Anhalt,Weißenfels,31-03,16.0,2.833213344056216
+8304,Sachsen,Chemnitzer Land,31-03,123.0,4.820281565605037
+8305,Sachsen,Zwickau Städte,31-03,123.0,4.820281565605037
+8306,Sachsen,Zwickauer Land,31-03,123.0,4.820281565605037
+8307,Rheinland-Pfalz,Ahrweiler,31-03,70.0,4.2626798770413155
+8308,Bayern,Aichach-Friedberg,31-03,126.0,4.844187086458591
+8309,Baden-Württemberg,Alb-Donau,31-03,228.0,5.43372200355424
+8310,Thüringen,Altenburger Land,31-03,23.0,3.1780538303479458
+8311,Rheinland-Pfalz,Altenkirchen,31-03,41.0,3.7376696182833684
+8312,Bayern,Altötting,31-03,155.0,5.049856007249537
+8313,Rheinland-Pfalz,Alzey-Worms,31-03,84.0,4.442651256490317
+8314,Bayern,Amberg Städte,31-03,18.0,2.9444389791664403
+8315,Bayern,Amberg-Sulzbach,31-03,84.0,4.442651256490317
+8316,Bayern,Ansbach,31-03,162.0,5.093750200806762
+8317,Bayern,Ansbach Städte,31-03,22.0,3.1354942159291497
+8318,Bayern,Aschaffenburg,31-03,134.0,4.90527477843843
+8319,Bayern,Aschaffenburg Städte,31-03,50.0,3.9318256327243257
+8320,Bayern,Augsburg,31-03,192.0,5.262690188904886
+8321,Bayern,Augsburg Städte,31-03,168.0,5.1298987149230735
+8322,Rheinland-Pfalz,Bad Dürkheim,31-03,169.0,5.135798437050262
+8323,Bayern,Bad Kissingen,31-03,94.0,4.553876891600541
+8324,Rheinland-Pfalz,Bad Kreuznach,31-03,95.0,4.564348191467836
+8325,Bayern,Bad Tölz-Wolfratshausen,31-03,180.0,5.198497031265826
+8326,Baden-Württemberg,Baden-Baden Städte,31-03,84.0,4.442651256490317
+8327,Bayern,Bamberg,31-03,181.0,5.204006687076795
+8328,Bayern,Bamberg Städte,31-03,75.0,4.330733340286331
+8329,Brandenburg,Barnim,31-03,75.0,4.330733340286331
+8330,Bayern,Bayreuth,31-03,107.0,4.68213122712422
+8331,Bayern,Bayreuth Städte,31-03,55.0,4.02535169073515
+8332,Bayern,Berchtesgadener Land,31-03,94.0,4.553876891600541
+8333,Hessen,Bergstraße,31-03,176.0,5.176149732573829
+8334,Berlin,Berlin,31-03,2754.0,7.9211727215870145
+8335,Rheinland-Pfalz,Bernkastel-Wittlich,31-03,67.0,4.219507705176107
+8336,Baden-Württemberg,Biberach,31-03,237.0,5.472270673671475
+8337,Nordrhein-Westfalen,Bielefeld Städte,31-03,169.0,5.135798437050262
+8338,Rheinland-Pfalz,Birkenfeld,31-03,33.0,3.5263605246161616
+8339,Rheinland-Pfalz,Bitburg-Prüm,31-03,97.0,4.584967478670572
+8340,Baden-Württemberg,Böblingen,31-03,432.0,6.07073772800249
+8341,Nordrhein-Westfalen,Bochum Städte,31-03,201.0,5.308267697401205
+8342,Baden-Württemberg,Bodensee,31-03,190.0,5.25227342804663
+8343,Nordrhein-Westfalen,Bonn Städte,31-03,283.0,5.648974238161206
+8344,Nordrhein-Westfalen,Borken,31-03,459.0,6.131226489483141
+8345,Nordrhein-Westfalen,Bottrop Städte,31-03,24.0,3.2188758248682006
+8346,Brandenburg,Brandenburg an der Havel Städte,31-03,18.0,2.9444389791664403
+8347,Baden-Württemberg,Breisgau-Hochschwarzwald,31-03,422.0,6.0473721790462776
+8348,Bremen,Bremen Städte,31-03,288.0,5.666426688112432
+8349,Baden-Württemberg,Calw,31-03,309.0,5.736572297479192
+8350,Niedersachsen,Ammerland,31-03,80.0,4.394449154672439
+8351,Bayern,Cham,31-03,143.0,4.969813299576001
+8352,Nordrhein-Westfalen,Cleves,31-03,281.0,5.641907070938114
+8353,Niedersachsen,Aurich,31-03,52.0,3.970291913552122
+8354,Bayern,Coburg,31-03,54.0,4.007333185232471
+8355,Bayern,Coburg Städte,31-03,22.0,3.1354942159291497
+8356,Rheinland-Pfalz,Cochem-Zell,31-03,101.0,4.624972813284271
+8357,Nordrhein-Westfalen,Coesfeld,31-03,307.0,5.730099782973574
+8358,Nordrhein-Westfalen,Cologne Städte,31-03,1246.0,7.1284959456800365
+8359,Brandenburg,Cottbus Städte,31-03,31.0,3.4657359027997265
+8360,Niedersachsen,Braunschweig Städte,31-03,147.0,4.997212273764115
+8361,Bayern,Dachau,31-03,204.0,5.3230099791384085
+8362,Brandenburg,Dahme-Spreewald,31-03,69.0,4.248495242049359
+8363,Hessen,Darmstadt Städte,31-03,72.0,4.290459441148391
+8364,Hessen,Darmstadt-Dieburg,31-03,193.0,5.267858159063328
+8365,Bayern,Deggendorf,31-03,121.0,4.804021044733257
+8366,Niedersachsen,Celle,31-03,87.0,4.477336814478207
+8367,Bayern,Dillingen,31-03,49.0,3.912023005428146
+8368,Bayern,Dingolfing-Landau,31-03,96.0,4.574710978503383
+8369,Schleswig-Holstein,Dithmarschen,31-03,27.0,3.332204510175204
+8370,Bayern,Donau-Ries,31-03,95.0,4.564348191467836
+8371,Rheinland-Pfalz,Donnersbergkreis,31-03,60.0,4.110873864173311
+8372,Nordrhein-Westfalen,Dortmund Städte,31-03,250.0,5.5254529391317835
+8373,Nordrhein-Westfalen,Duisburg Städte,31-03,292.0,5.680172609017068
+8374,Nordrhein-Westfalen,Düren,31-03,240.0,5.484796933490655
+8375,Nordrhein-Westfalen,Düsseldorf Städte,31-03,416.0,6.0330862217988015
+8376,Bayern,Ebersberg,31-03,202.0,5.313205979041787
+8377,Thüringen,Eichsfeld,31-03,55.0,4.02535169073515
+8378,Bayern,Eichstätt,31-03,92.0,4.532599493153256
+8379,Brandenburg,Elbe-Elster,31-03,34.0,3.5553480614894135
+8380,Niedersachsen,Cloppenburg,31-03,35.0,3.58351893845611
+8381,Baden-Württemberg,Emmendingen,31-03,287.0,5.662960480135946
+8382,Niedersachsen,Diepholz,31-03,141.0,4.955827057601261
+8383,Nordrhein-Westfalen,Ennepe-Ruhr,31-03,192.0,5.262690188904886
+8384,Baden-Württemberg,Enz,31-03,126.0,4.844187086458591
+8385,Bayern,Erding,31-03,292.0,5.680172609017068
+8386,Thüringen,Erfurt Städte,31-03,81.0,4.406719247264253
+8387,Bayern,Erlangen Städte,31-03,56.0,4.04305126783455
+8388,Bayern,Erlangen-Höchstadt,31-03,66.0,4.204692619390966
+8389,Nordrhein-Westfalen,Essen Städte,31-03,357.0,5.8805329864007
+8390,Baden-Württemberg,Esslingen,31-03,832.0,6.725033642166843
+8391,Nordrhein-Westfalen,Euskirchen,31-03,126.0,4.844187086458591
+8392,Schleswig-Holstein,Flensburg Städte,31-03,25.0,3.258096538021482
+8393,Bayern,Forchheim,31-03,87.0,4.477336814478207
+8394,Rheinland-Pfalz,Frankenthal Städte,31-03,19.0,2.995732273553991
+8395,Hessen,Frankfurt am Main Städte,31-03,438.0,6.0844994130751715
+8396,Brandenburg,Frankfurt am Oder Städte,31-03,6.0,1.9459101490553132
+8397,Baden-Württemberg,Freiburg,31-03,442.0,6.093569770045136
+8398,Bayern,Freising,31-03,505.0,6.226536669287466
+8399,Baden-Württemberg,Freudenstadt,31-03,174.0,5.1647859739235145
+8400,Bayern,Freyung-Grafenau,31-03,94.0,4.553876891600541
+8401,Niedersachsen,Emden Städte,31-03,8.0,2.1972245773362196
+8402,Hessen,Fulda,31-03,154.0,5.043425116919247
+8403,Bayern,Fürstenfeldbruck,31-03,349.0,5.857933154483459
+8404,Bayern,Fürth,31-03,153.0,5.0369526024136295
+8405,Bayern,Fürth Städte,31-03,91.0,4.5217885770490405
+8406,Bayern,Garmisch-Partenkirchen,31-03,113.0,4.736198448394496
+8407,Nordrhein-Westfalen,Gelsenkirchen Städte,31-03,99.0,4.605170185988092
+8408,Thüringen,Gera Städte,31-03,22.0,3.1354942159291497
+8409,Rheinland-Pfalz,Germersheim,31-03,69.0,4.248495242049359
+8410,Hessen,Gießen,31-03,134.0,4.90527477843843
+8411,Niedersachsen,Emsland,31-03,141.0,4.955827057601261
+8412,Baden-Württemberg,Göppingen,31-03,399.0,5.991464547107982
+8413,Niedersachsen,Friesland,31-03,12.0,2.5649493574615367
+8414,Thüringen,Gotha,31-03,26.0,3.295836866004329
+8415,Niedersachsen,Gifhorn,31-03,75.0,4.330733340286331
+8416,Niedersachsen,Goslar,31-03,58.0,4.07753744390572
+8417,Thüringen,Greiz,31-03,139.0,4.941642422609304
+8418,Hessen,Groß-Gerau,31-03,195.0,5.278114659230517
+8419,Bayern,Günzburg,31-03,90.0,4.51085950651685
+8420,Nordrhein-Westfalen,Gütersloh,31-03,311.0,5.7430031878094825
+8421,Nordrhein-Westfalen,Hagen Städte,31-03,80.0,4.394449154672439
+8422,Hamburg,Hamburg Städte,31-03,2311.0,7.7458682297922685
+8423,Niedersachsen,Grafschaft Bentheim,31-03,88.0,4.48863636973214
+8424,Nordrhein-Westfalen,Hamm Städte,31-03,156.0,5.056245805348308
+8425,Niedersachsen,Hamelin-Pyrmont,31-03,57.0,4.060443010546419
+8426,Niedersachsen,Hanover,31-03,837.0,6.731018100482083
+8427,Bayern,Haßberge,31-03,68.0,4.23410650459726
+8428,Brandenburg,Havelland,31-03,51.0,3.9512437185814275
+8429,Baden-Württemberg,Heidelberg Städte,31-03,155.0,5.049856007249537
+8430,Baden-Württemberg,Heidenheim,31-03,160.0,5.081404364984463
+8431,Baden-Württemberg,Heilbronn,31-03,427.0,6.059123195581797
+8432,Baden-Württemberg,Heilbronn city Städte,31-03,168.0,5.1298987149230735
+8433,Nordrhein-Westfalen,Heinsberg,31-03,1264.0,7.142827401161621
+8434,Niedersachsen,Harburg,31-03,159.0,5.075173815233827
+8435,Nordrhein-Westfalen,Herford,31-03,149.0,5.0106352940962555
+8436,Nordrhein-Westfalen,Herne Städte,31-03,54.0,4.007333185232471
+8437,Hessen,Hersfeld-Rotenburg,31-03,47.0,3.871201010907891
+8438,Thüringen,Hildburghausen,31-03,7.0,2.0794415416798357
+8439,Niedersachsen,Helmstedt,31-03,63.0,4.1588830833596715
+8440,Nordrhein-Westfalen,Hochsauerlandkreis,31-03,252.0,5.53338948872752
+8441,Hessen,Hochtaunuskreis,31-03,155.0,5.049856007249537
+8442,Bayern,Hof,31-03,111.0,4.718498871295094
+8443,Bayern,Hof Städte,31-03,39.0,3.6888794541139363
+8444,Baden-Württemberg,Hohenlohe,31-03,454.0,6.12029741895095
+8445,Niedersachsen,Hildesheim,31-03,146.0,4.990432586778736
+8446,Nordrhein-Westfalen,Höxter,31-03,70.0,4.2626798770413155
+8447,Thüringen,Ilm-Kreis,31-03,65.0,4.189654742026425
+8448,Bayern,Ingolstadt Städte,31-03,85.0,4.454347296253507
+8449,Thüringen,Jena Städte,31-03,113.0,4.736198448394496
+8450,Rheinland-Pfalz,Kaiserslautern,31-03,54.0,4.007333185232471
+8451,Rheinland-Pfalz,Kaiserslautern Städte,31-03,54.0,4.007333185232471
+8452,Baden-Württemberg,Karlsruhe,31-03,303.0,5.717027701406222
+8453,Baden-Württemberg,Karlsruhe Städte,31-03,159.0,5.075173815233827
+8454,Hessen,Kassel,31-03,86.0,4.465908118654584
+8455,Hessen,Kassel Städte,31-03,84.0,4.442651256490317
+8456,Bayern,Kaufbeuren Städte,31-03,32.0,3.4965075614664802
+8457,Bayern,Kelheim,31-03,154.0,5.043425116919247
+8458,Bayern,Kempten Städte,31-03,43.0,3.784189633918261
+8459,Schleswig-Holstein,Kiel Städte,31-03,124.0,4.8283137373023015
+8460,Bayern,Kitzingen,31-03,27.0,3.332204510175204
+8461,Rheinland-Pfalz,Koblenz Coblenz Städte,31-03,124.0,4.8283137373023015
+8462,Baden-Württemberg,Konstanz,31-03,162.0,5.093750200806762
+8463,Nordrhein-Westfalen,Krefeld Städte,31-03,190.0,5.25227342804663
+8464,Bayern,Kronach,31-03,47.0,3.871201010907891
+8465,Bayern,Kulmbach,31-03,73.0,4.30406509320417
+8466,Rheinland-Pfalz,Kusel,31-03,47.0,3.871201010907891
+8467,Thüringen,Kyffhäuserkreis,31-03,23.0,3.1780538303479458
+8468,Hessen,Lahn-Dill-Kreis,31-03,153.0,5.0369526024136295
+8469,Rheinland-Pfalz,Landau Städte,31-03,33.0,3.5263605246161616
+8470,Bayern,Landsberg,31-03,155.0,5.049856007249537
+8471,Bayern,Landshut,31-03,274.0,5.616771097666572
+8472,Bayern,Landshut Städte,31-03,121.0,4.804021044733257
+8473,Schleswig-Holstein,Lauenburg,31-03,110.0,4.709530201312334
+8474,Niedersachsen,Holzminden,31-03,56.0,4.04305126783455
+8475,Nordrhein-Westfalen,Leverkusen Städte,31-03,100.0,4.61512051684126
+8476,Bayern,Lichtenfels,31-03,88.0,4.48863636973214
+8477,Hessen,Limburg-Weilburg,31-03,161.0,5.087596335232384
+8478,Bayern,Lindau,31-03,128.0,4.859812404361672
+8479,Nordrhein-Westfalen,Lippe,31-03,302.0,5.713732805509369
+8480,Baden-Württemberg,Lörrach,31-03,254.0,5.541263545158426
+8481,Schleswig-Holstein,Lübeck Städte,31-03,94.0,4.553876891600541
+8482,Niedersachsen,Leer,31-03,41.0,3.7376696182833684
+8483,Baden-Württemberg,Ludwigsburg,31-03,701.0,6.553933404025811
+8484,Rheinland-Pfalz,Ludwigshafen Städte,31-03,73.0,4.30406509320417
+8485,Niedersachsen,Lüchow-Dannenberg,31-03,8.0,2.1972245773362196
+8486,Hessen,Main-Kinzig-Kreis,31-03,177.0,5.181783550292085
+8487,Bayern,Main-Spessart,31-03,73.0,4.30406509320417
+8488,Baden-Württemberg,Main-Tauber,31-03,136.0,4.919980925828125
+8489,Hessen,Main-Taunus-Kreis Städte,31-03,132.0,4.890349128221754
+8490,Rheinland-Pfalz,Mainz Städte,31-03,187.0,5.236441962829949
+8491,Rheinland-Pfalz,Mainz-Bingen,31-03,129.0,4.867534450455582
+8492,Baden-Württemberg,Mannheim Städte,31-03,229.0,5.438079308923196
+8493,Hessen,Marburg-Biedenkopf,31-03,108.0,4.6913478822291435
+8494,Brandenburg,Märkisch-Oderland,31-03,104.0,4.653960350157523
+8495,Nordrhein-Westfalen,Märkischer Kreis,31-03,130.0,4.875197323201151
+8496,Rheinland-Pfalz,Mayen-Koblenz,31-03,233.0,5.455321115357702
+8497,Bayern,Memmingen Städte,31-03,29.0,3.4011973816621555
+8498,Saarland,Merzig-Wadern,31-03,60.0,4.110873864173311
+8499,Nordrhein-Westfalen,Mettmann,31-03,349.0,5.857933154483459
+8500,Bayern,Miesbach,31-03,312.0,5.746203190540153
+8501,Bayern,Miltenberg,31-03,120.0,4.795790545596741
+8502,Nordrhein-Westfalen,Minden-Lübbecke,31-03,277.0,5.627621113690637
+8503,Nordrhein-Westfalen,Mönchengladbach Städte,31-03,177.0,5.181783550292085
+8504,Bayern,Mühldorf,31-03,161.0,5.087596335232384
+8505,Nordrhein-Westfalen,Mülheim Städte,31-03,75.0,4.330733340286331
+8506,Bayern,München,31-03,633.0,6.452048954437226
+8507,Bayern,Munich Städte,31-03,2653.0,7.8838232148921525
+8508,Nordrhein-Westfalen,Münster Städte,31-03,460.0,6.133398042996649
+8509,Baden-Württemberg,Neckar-Odenwald-Kreis,31-03,104.0,4.653960350157523
+8510,Bayern,Neu-Ulm,31-03,162.0,5.093750200806762
+8511,Bayern,Neuburg-Schrobenhausen,31-03,91.0,4.5217885770490405
+8512,Bayern,Neumarkt,31-03,87.0,4.477336814478207
+8513,Schleswig-Holstein,Neumünster Städte,31-03,25.0,3.258096538021482
+8514,Saarland,Neunkirchen,31-03,104.0,4.653960350157523
+8515,Bayern,Neustadt,31-03,239.0,5.480638923341991
+8516,Rheinland-Pfalz,Neustadt Städte,31-03,55.0,4.02535169073515
+8517,Bayern,Neustadt-Bad Windsheim,31-03,56.0,4.04305126783455
+8518,Rheinland-Pfalz,Neuwied,31-03,137.0,4.927253685157205
+8519,Niedersachsen,Lüneburg,31-03,95.0,4.564348191467836
+8520,Schleswig-Holstein,Nordfriesland,31-03,41.0,3.7376696182833684
+8521,Thüringen,Nordhausen,31-03,15.0,2.772588722239781
+8522,Niedersachsen,Nienburg,31-03,34.0,3.5553480614894135
+8523,Bayern,Nuremberg Städte,31-03,273.0,5.6131281063880705
+8524,Bayern,Nürnberger Land,31-03,204.0,5.3230099791384085
+8525,Bayern,Oberallgäu,31-03,99.0,4.605170185988092
+8526,Nordrhein-Westfalen,Oberbergischer Kreis,31-03,230.0,5.442417710521793
+8527,Nordrhein-Westfalen,Oberhausen Städte,31-03,65.0,4.189654742026425
+8528,Brandenburg,Oberhavel,31-03,99.0,4.605170185988092
+8529,Brandenburg,Oberspreewald-Lausitz,31-03,18.0,2.9444389791664403
+8530,Hessen,Odenwaldkreis,31-03,69.0,4.248495242049359
+8531,Brandenburg,Oder-Spree,31-03,76.0,4.343805421853684
+8532,Hessen,Offenbach,31-03,176.0,5.176149732573829
+8533,Hessen,Offenbach am Main Städte,31-03,26.0,3.295836866004329
+8534,Niedersachsen,Northeim,31-03,35.0,3.58351893845611
+8535,Nordrhein-Westfalen,Olpe,31-03,134.0,4.90527477843843
+8536,Baden-Württemberg,Ortenaukreis,31-03,318.0,5.765191102784844
+8537,Niedersachsen,Oldenburg Städte,31-03,88.0,4.48863636973214
+8538,Niedersachsen,Osnabrück,31-03,320.0,5.771441123130016
+8539,Baden-Württemberg,Ostalbkreis,31-03,299.0,5.703782474656201
+8540,Bayern,Ostallgäu,31-03,151.0,5.0238805208462765
+8541,Niedersachsen,Osnabrück Städte,31-03,229.0,5.438079308923196
+8542,Niedersachsen,Osterholz,31-03,49.0,3.912023005428146
+8543,Schleswig-Holstein,Ostholstein,31-03,40.0,3.713572066704308
+8544,Brandenburg,Ostprignitz-Ruppin,31-03,15.0,2.772588722239781
+8545,Nordrhein-Westfalen,Paderborn,31-03,187.0,5.236441962829949
+8546,Bayern,Passau,31-03,135.0,4.912654885736052
+8547,Bayern,Passau Städte,31-03,44.0,3.8066624897703196
+8548,Niedersachsen,Peine,31-03,61.0,4.127134385045092
+8549,Bayern,Pfaffenhofen,31-03,113.0,4.736198448394496
+8550,Baden-Württemberg,Pforzheim Städte,31-03,46.0,3.8501476017100584
+8551,Schleswig-Holstein,Pinneberg,31-03,227.0,5.429345628954441
+8552,Schleswig-Holstein,Plön,31-03,58.0,4.07753744390572
+8553,Brandenburg,Potsdam Städte,31-03,111.0,4.718498871295094
+8554,Brandenburg,Potsdam-Mittelmark,31-03,65.0,4.189654742026425
+8555,Brandenburg,Prignitz,31-03,9.0,2.302585092994046
+8556,Baden-Württemberg,Rastatt,31-03,286.0,5.659482215759621
+8557,Baden-Württemberg,Ravensburg,31-03,339.0,5.8289456176102075
+8558,Nordrhein-Westfalen,Recklinghausen,31-03,305.0,5.723585101952381
+8559,Bayern,Regen,31-03,47.0,3.871201010907891
+8560,Bayern,Regensburg,31-03,156.0,5.056245805348308
+8561,Bayern,Regensburg Städte,31-03,164.0,5.10594547390058
+8562,Baden-Württemberg,Rems-Murr-Kreis,31-03,406.0,6.008813185442595
+8563,Nordrhein-Westfalen,Remscheid Städte,31-03,59.0,4.0943445622221
+8564,Schleswig-Holstein,Rendsburg-Eckernförde,31-03,128.0,4.859812404361672
+8565,Baden-Württemberg,Reutlingen,31-03,325.0,5.786897381366708
+8566,Nordrhein-Westfalen,Rhein-Erft-Kreis,31-03,289.0,5.66988092298052
+8567,Rheinland-Pfalz,Rhein-Hunsrück,31-03,125.0,4.836281906951478
+8568,Nordrhein-Westfalen,Rhein-Kreis Neuss,31-03,346.0,5.849324779946859
+8569,Rheinland-Pfalz,Rhein-Lahn,31-03,87.0,4.477336814478207
+8570,Baden-Württemberg,Rhein-Neckar-Kreis,31-03,592.0,6.385194398997726
+8571,Rheinland-Pfalz,Rhein-Pfalz-Kreis,31-03,62.0,4.143134726391533
+8572,Nordrhein-Westfalen,Rhein-Sieg,31-03,534.0,6.282266746896006
+8573,Hessen,Rheingau-Taunus-Kreis,31-03,117.0,4.770684624465665
+8574,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis,31-03,200.0,5.303304908059076
+8575,Bayern,Rhön-Grabfeld,31-03,46.0,3.8501476017100584
+8576,Sachsen,Chemnitz Städte,31-03,111.0,4.718498871295094
+8577,Bayern,Rosenheim,31-03,791.0,6.674561391814426
+8578,Bayern,Rosenheim Städte,31-03,128.0,4.859812404361672
+8579,Niedersachsen,Rotenburg,31-03,51.0,3.9512437185814275
+8580,Bayern,Roth,31-03,118.0,4.77912349311153
+8581,Bayern,Rottal-Inn,31-03,303.0,5.717027701406222
+8582,Baden-Württemberg,Rottweil,31-03,154.0,5.043425116919247
+8583,Thüringen,Saale-Holzland,31-03,30.0,3.4339872044851463
+8584,Thüringen,Saale-Orla,31-03,37.0,3.6375861597263857
+8585,Thüringen,Saalfeld-Rudolstadt,31-03,39.0,3.6888794541139363
+8586,Sachsen-Anhalt,Altmarkkreis Salzwedel,31-03,15.0,2.772588722239781
+8587,Saarland,Saarbrücken Städte,31-03,311.0,5.7430031878094825
+8588,Saarland,Saarlouis,31-03,150.0,5.017279836814924
+8589,Saarland,Saarpfalz,31-03,129.0,4.867534450455582
+8590,Sachsen,Döbeln,31-03,34.0,3.5553480614894135
+8591,Niedersachsen,Salzgitter Städte,31-03,52.0,3.970291913552122
+8592,Sachsen-Anhalt,Dessau Städte,31-03,20.0,3.044522437723423
+8593,Saarland,Sankt Wendel,31-03,75.0,4.330733340286331
+8594,Niedersachsen,Schaumburg,31-03,52.0,3.970291913552122
+8595,Schleswig-Holstein,Schleswig-Flensburg,31-03,76.0,4.343805421853684
+8596,Thüringen,Schmalkalden-Meiningen,31-03,32.0,3.4965075614664802
+8597,Sachsen-Anhalt,Halle Städte,31-03,174.0,5.1647859739235145
+8598,Bayern,Schwabach Städte,31-03,36.0,3.6109179126442243
+8599,Baden-Württemberg,Schwäbisch Hall,31-03,348.0,5.855071922202427
+8600,Hessen,Schwalm-Eder-Kreis,31-03,158.0,5.0689042022202315
+8601,Bayern,Schwandorf,31-03,132.0,4.890349128221754
+8602,Baden-Württemberg,Schwarzwald-Baar-Kreis,31-03,190.0,5.25227342804663
+8603,Bayern,Schweinfurt,31-03,128.0,4.859812404361672
+8604,Bayern,Schweinfurt Städte,31-03,55.0,4.02535169073515
+8605,Schleswig-Holstein,Segeberg,31-03,91.0,4.5217885770490405
+8606,Nordrhein-Westfalen,Siegen-Wittgenstein,31-03,100.0,4.61512051684126
+8607,Baden-Württemberg,Sigmaringen,31-03,341.0,5.834810737062605
+8608,Nordrhein-Westfalen,Soest,31-03,205.0,5.327876168789581
+8609,Nordrhein-Westfalen,Solingen Städte,31-03,100.0,4.61512051684126
+8610,Niedersachsen,Soltau-Fallingbostel,31-03,28.0,3.367295829986474
+8611,Thüringen,Sömmerda,31-03,23.0,3.1780538303479458
+8612,Thüringen,Sonneberg,31-03,28.0,3.367295829986474
+8613,Rheinland-Pfalz,Speyer Spires Städte,31-03,24.0,3.2188758248682006
+8614,Brandenburg,Spree-Neiße,31-03,42.0,3.7612001156935624
+8615,Niedersachsen,Stade,31-03,118.0,4.77912349311153
+8616,Bayern,Starnberg,31-03,293.0,5.683579767338681
+8617,Schleswig-Holstein,Steinburg,31-03,43.0,3.784189633918261
+8618,Nordrhein-Westfalen,Steinfurt,31-03,386.0,5.958424693029782
+8619,Sachsen-Anhalt,Jerichower Land,31-03,20.0,3.044522437723423
+8620,Sachsen,Dresden Städte,31-03,311.0,5.7430031878094825
+8621,Schleswig-Holstein,Stormarn,31-03,137.0,4.927253685157205
+8622,Bayern,Straubing Städte,31-03,102.0,4.634728988229636
+8623,Bayern,Straubing-Bogen,31-03,129.0,4.867534450455582
+8624,Baden-Württemberg,Stuttgart Städte,31-03,784.0,6.665683717782408
+8625,Rheinland-Pfalz,Südliche Weinstraße,31-03,86.0,4.465908118654584
+8626,Rheinland-Pfalz,Südwestpfalz,31-03,60.0,4.110873864173311
+8627,Thüringen,Suhl Städte,31-03,7.0,2.0794415416798357
+8628,Brandenburg,Teltow-Fläming,31-03,50.0,3.9318256327243257
+8629,Bayern,Tirschenreuth,31-03,501.0,6.218600119691729
+8630,Sachsen,Freiberg,31-03,34.0,3.5553480614894135
+8631,Bayern,Traunstein,31-03,274.0,5.616771097666572
+8632,Rheinland-Pfalz,Trier Städte,31-03,60.0,4.110873864173311
+8633,Rheinland-Pfalz,Trier-Saarburg,31-03,79.0,4.382026634673881
+8634,Baden-Württemberg,Tübingen,31-03,676.0,6.517671272912275
+8635,Baden-Württemberg,Tuttlingen,31-03,167.0,5.123963979403259
+8636,Brandenburg,Uckermark,31-03,8.0,2.1972245773362196
+8637,Mecklenburg-Vorpommern,Rostock Städte,31-03,59.0,4.0943445622221
+8638,Niedersachsen,Uelzen,31-03,24.0,3.2188758248682006
+8639,Baden-Württemberg,Ulm Städte,31-03,118.0,4.77912349311153
+8640,Nordrhein-Westfalen,Unna,31-03,169.0,5.135798437050262
+8641,Thüringen,Unstrut-Hainich,31-03,18.0,2.9444389791664403
+8642,Bayern,Unterallgäu,31-03,108.0,4.6913478822291435
+8643,Niedersachsen,Vechta,31-03,175.0,5.170483995038151
+8644,Niedersachsen,Verden,31-03,72.0,4.290459441148391
+8645,Nordrhein-Westfalen,Viersen,31-03,144.0,4.976733742420574
+8646,Hessen,Vogelsbergkreis,31-03,53.0,3.9889840465642745
+8647,Sachsen,Leipzig Städte,31-03,320.0,5.771441123130016
+8648,Rheinland-Pfalz,Vulkaneifel,31-03,51.0,3.9512437185814275
+8649,Hessen,Waldeck-Frankenberg,31-03,66.0,4.204692619390966
+8650,Baden-Württemberg,Waldshut,31-03,98.0,4.59511985013459
+8651,Nordrhein-Westfalen,Warendorf,31-03,296.0,5.6937321388027
+8652,Thüringen,Wartburgkreis,31-03,22.0,3.1354942159291497
+8653,Bayern,Weiden Städte,31-03,77.0,4.356708826689592
+8654,Bayern,Weilheim-Schongau,31-03,209.0,5.3471075307174685
+8655,Thüringen,Weimar Städte,31-03,29.0,3.4011973816621555
+8656,Thüringen,Weimarer Land,31-03,26.0,3.295836866004329
+8657,Bayern,Weißenburg-Gunzenhausen,31-03,94.0,4.553876891600541
+8658,Sachsen-Anhalt,Magdeburg Städte,31-03,84.0,4.442651256490317
+8659,Sachsen,Mittweida,31-03,34.0,3.5553480614894135
+8660,Sachsen-Anhalt,Stendal,31-03,55.0,4.02535169073515
+8661,Hessen,Werra-Meißner-Kreis,31-03,21.0,3.091042453358316
+8662,Nordrhein-Westfalen,Wesel,31-03,228.0,5.43372200355424
+8663,Niedersachsen,Wesermarsch,31-03,39.0,3.6888794541139363
+8664,Rheinland-Pfalz,Westerwaldkreis,31-03,144.0,4.976733742420574
+8665,Hessen,Wetteraukreis,31-03,115.0,4.7535901911063645
+8666,Hessen,Wiesbaden Städte,31-03,179.0,5.19295685089021
+8667,Niedersachsen,Wilhelmshaven Städte,31-03,7.0,2.0794415416798357
+8668,Mecklenburg-Vorpommern,Schwerin Städte,31-03,66.0,4.204692619390966
+8669,Sachsen-Anhalt,Wittenberg,31-03,88.0,4.48863636973214
+8670,Niedersachsen,Wittmund,31-03,16.0,2.833213344056216
+8671,Niedersachsen,Wolfenbüttel,31-03,36.0,3.6109179126442243
+8672,Niedersachsen,Wolfsburg Städte,31-03,163.0,5.099866427824199
+8673,Rheinland-Pfalz,Worms Städte,31-03,78.0,4.3694478524670215
+8674,Bayern,Wunsiedel,31-03,198.0,5.293304824724492
+8675,Nordrhein-Westfalen,Wuppertal Städte,31-03,200.0,5.303304908059076
+8676,Bayern,Würzburg,31-03,202.0,5.313205979041787
+8677,Bayern,Würzburg Städte,31-03,255.0,5.545177444479562
+8678,Baden-Württemberg,Zollernalbkreis,31-03,349.0,5.857933154483459
+8679,Rheinland-Pfalz,Zweibrücken Städte,31-03,12.0,2.5649493574615367
