@@ -1,0 +1,40 @@
+version: 2.1
+
+jobs:
+    build-and-deploy:
+        docker:
+            - image: circleci/buildpack-deps:stretch
+
+        working_directory: ~/repo
+
+        steps:
+            - add_ssh_keys:
+                  fingerprints:
+                      - "9c:55:04:22:6f:0c:30:c9:1e:da:ae:dd:aa:81:8a:86"
+
+            - checkout
+
+            - run:
+                  name: SSH into Google Virtual Machine
+                  command: |
+                      if [ "${CIRCLE_BRANCH}" == "production" ]; then
+                        ssh -o StrictHostKeyChecking=no circle_ci@35.198.79.230 \<< EOF
+                        cd ../fbosler/COVID-19-CONTAINERDEPLOY/
+                        git pull
+                        sudo docker-compose build
+                        sudo docker-compose down
+                        sudo docker-compose up -d
+                      EOF
+                      else
+                        echo "NO DEPLOY (only deploying in staging and production)"
+                      fi
+            - save_cache:
+                  paths:
+                      - node_modules
+                  key: v1-dependencies-{{ checksum "package.json" }}
+
+workflows:
+    version: 2.1
+    build-and-deploy-workflow:
+        jobs:
+            - build-and-deploy:
