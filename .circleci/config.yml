@@ -28,13 +28,10 @@ jobs:
                       else
                         echo "NO DEPLOY (only deploying in staging and production)"
                       fi
-            - save_cache:
-                  paths:
-                      - node_modules
-                  key: v1-dependencies-{{ checksum "package.json" }}
 
 workflows:
     version: 2.1
     build-and-deploy-workflow:
         jobs:
             - build-and-deploy:
+                  context:
