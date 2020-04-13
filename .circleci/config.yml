@@ -33,5 +33,4 @@ workflows:
     version: 2.1
     build-and-deploy-workflow:
         jobs:
-            - build-and-deploy:
-                  context:
+            - build-and-deploy
